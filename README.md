@@ -49,6 +49,4 @@ The insights generated can help HR departments improve **workforce planning, pro
 - Monthly Attendance Analysis  
 - Work From Home Trends  
 - Detailed Employee Table View
-  
 
-⭐ If you like this project, feel free to star the repository!
